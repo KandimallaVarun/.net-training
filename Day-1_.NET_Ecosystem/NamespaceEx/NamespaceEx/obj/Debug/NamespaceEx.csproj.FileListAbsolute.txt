@@ -1,0 +1,7 @@
+D:\.NET_FULL_STACK\.net-training\Day-1\NamespaceEx\NamespaceEx\bin\Debug\NamespaceEx.exe.config
+D:\.NET_FULL_STACK\.net-training\Day-1\NamespaceEx\NamespaceEx\bin\Debug\NamespaceEx.exe
+D:\.NET_FULL_STACK\.net-training\Day-1\NamespaceEx\NamespaceEx\bin\Debug\NamespaceEx.pdb
+D:\.NET_FULL_STACK\.net-training\Day-1\NamespaceEx\NamespaceEx\obj\Debug\NamespaceEx.csproj.AssemblyReference.cache
+D:\.NET_FULL_STACK\.net-training\Day-1\NamespaceEx\NamespaceEx\obj\Debug\NamespaceEx.csproj.CoreCompileInputs.cache
+D:\.NET_FULL_STACK\.net-training\Day-1\NamespaceEx\NamespaceEx\obj\Debug\NamespaceEx.exe
+D:\.NET_FULL_STACK\.net-training\Day-1\NamespaceEx\NamespaceEx\obj\Debug\NamespaceEx.pdb
