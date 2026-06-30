@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET_FULL_STACK\\.net-training\\Day-1\\NamespaceEx\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6308D38E-FA39-4920-AC77-194EDECB9BC9}|NamespaceEx\\NamespaceEx.csproj|d:\\.net_full_stack\\.net-training\\day-1\\namespaceex\\namespaceex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6308D38E-FA39-4920-AC77-194EDECB9BC9}|NamespaceEx\\NamespaceEx.csproj|solutionrelative:namespaceex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET_FULL_STACK\\.net-training\\Day-1\\NamespaceEx\\NamespaceEx\\Program.cs",
+              "RelativeDocumentMoniker": "NamespaceEx\\Program.cs",
+              "ToolTip": "D:\\.NET_FULL_STACK\\.net-training\\Day-1\\NamespaceEx\\NamespaceEx\\Program.cs",
+              "RelativeToolTip": "NamespaceEx\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T16:45:03.43Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
