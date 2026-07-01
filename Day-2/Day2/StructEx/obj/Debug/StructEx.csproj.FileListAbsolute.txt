@@ -1,0 +1,7 @@
+D:\.NET_FULL_STACK\.net-training\Day-2\Day2\StructEx\bin\Debug\StructEx.exe.config
+D:\.NET_FULL_STACK\.net-training\Day-2\Day2\StructEx\bin\Debug\StructEx.exe
+D:\.NET_FULL_STACK\.net-training\Day-2\Day2\StructEx\bin\Debug\StructEx.pdb
+D:\.NET_FULL_STACK\.net-training\Day-2\Day2\StructEx\obj\Debug\StructEx.csproj.AssemblyReference.cache
+D:\.NET_FULL_STACK\.net-training\Day-2\Day2\StructEx\obj\Debug\StructEx.csproj.CoreCompileInputs.cache
+D:\.NET_FULL_STACK\.net-training\Day-2\Day2\StructEx\obj\Debug\StructEx.exe
+D:\.NET_FULL_STACK\.net-training\Day-2\Day2\StructEx\obj\Debug\StructEx.pdb

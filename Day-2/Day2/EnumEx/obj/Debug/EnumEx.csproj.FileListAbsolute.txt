@@ -1,0 +1,7 @@
+D:\.NET_FULL_STACK\.net-training\Day-2\Day2\EnumEx\bin\Debug\EnumEx.exe.config
+D:\.NET_FULL_STACK\.net-training\Day-2\Day2\EnumEx\bin\Debug\EnumEx.exe
+D:\.NET_FULL_STACK\.net-training\Day-2\Day2\EnumEx\bin\Debug\EnumEx.pdb
+D:\.NET_FULL_STACK\.net-training\Day-2\Day2\EnumEx\obj\Debug\EnumEx.csproj.AssemblyReference.cache
+D:\.NET_FULL_STACK\.net-training\Day-2\Day2\EnumEx\obj\Debug\EnumEx.csproj.CoreCompileInputs.cache
+D:\.NET_FULL_STACK\.net-training\Day-2\Day2\EnumEx\obj\Debug\EnumEx.exe
+D:\.NET_FULL_STACK\.net-training\Day-2\Day2\EnumEx\obj\Debug\EnumEx.pdb

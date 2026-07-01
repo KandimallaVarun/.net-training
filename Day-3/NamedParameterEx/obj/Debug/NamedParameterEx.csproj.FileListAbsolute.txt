@@ -1,0 +1,7 @@
+D:\.NET_FULL_STACK\.net-training\Day-3\NamedParameterEx\bin\Debug\NamedParameterEx.exe.config
+D:\.NET_FULL_STACK\.net-training\Day-3\NamedParameterEx\bin\Debug\NamedParameterEx.exe
+D:\.NET_FULL_STACK\.net-training\Day-3\NamedParameterEx\bin\Debug\NamedParameterEx.pdb
+D:\.NET_FULL_STACK\.net-training\Day-3\NamedParameterEx\obj\Debug\NamedParameterEx.csproj.AssemblyReference.cache
+D:\.NET_FULL_STACK\.net-training\Day-3\NamedParameterEx\obj\Debug\NamedParameterEx.csproj.CoreCompileInputs.cache
+D:\.NET_FULL_STACK\.net-training\Day-3\NamedParameterEx\obj\Debug\NamedParameterEx.exe
+D:\.NET_FULL_STACK\.net-training\Day-3\NamedParameterEx\obj\Debug\NamedParameterEx.pdb

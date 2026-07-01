@@ -1,0 +1,24 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace OOPsEx1
+{
+    class Car
+    {
+        private string name { set; get; }
+        private int mileage { set; get; }
+        private double price { set; get; }
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Car toyoto = new Car();
+            //use setters to set the values of the properties
+
+        }
+    }
+}
