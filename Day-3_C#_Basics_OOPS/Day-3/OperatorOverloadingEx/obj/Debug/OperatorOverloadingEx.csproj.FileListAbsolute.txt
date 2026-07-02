@@ -1,0 +1,7 @@
+D:\.NET_FULL_STACK\.net-training\Day-3\OperatorOverloadingEx\obj\Debug\OperatorOverloadingEx.csproj.AssemblyReference.cache
+D:\.NET_FULL_STACK\.net-training\Day-3\OperatorOverloadingEx\obj\Debug\OperatorOverloadingEx.csproj.CoreCompileInputs.cache
+D:\.NET_FULL_STACK\.net-training\Day-3\OperatorOverloadingEx\bin\Debug\OperatorOverloadingEx.exe.config
+D:\.NET_FULL_STACK\.net-training\Day-3\OperatorOverloadingEx\bin\Debug\OperatorOverloadingEx.exe
+D:\.NET_FULL_STACK\.net-training\Day-3\OperatorOverloadingEx\bin\Debug\OperatorOverloadingEx.pdb
+D:\.NET_FULL_STACK\.net-training\Day-3\OperatorOverloadingEx\obj\Debug\OperatorOverloadingEx.exe
+D:\.NET_FULL_STACK\.net-training\Day-3\OperatorOverloadingEx\obj\Debug\OperatorOverloadingEx.pdb

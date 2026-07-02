@@ -1,0 +1,7 @@
+D:\.NET_FULL_STACK\.net-training\Day-4\CustomDefinedException\obj\Debug\CustomDefinedException.csproj.AssemblyReference.cache
+D:\.NET_FULL_STACK\.net-training\Day-4\CustomDefinedException\obj\Debug\CustomDefinedException.csproj.CoreCompileInputs.cache
+D:\.NET_FULL_STACK\.net-training\Day-4\CustomDefinedException\bin\Debug\CustomDefinedException.exe.config
+D:\.NET_FULL_STACK\.net-training\Day-4\CustomDefinedException\bin\Debug\CustomDefinedException.exe
+D:\.NET_FULL_STACK\.net-training\Day-4\CustomDefinedException\bin\Debug\CustomDefinedException.pdb
+D:\.NET_FULL_STACK\.net-training\Day-4\CustomDefinedException\obj\Debug\CustomDefinedException.exe
+D:\.NET_FULL_STACK\.net-training\Day-4\CustomDefinedException\obj\Debug\CustomDefinedException.pdb
