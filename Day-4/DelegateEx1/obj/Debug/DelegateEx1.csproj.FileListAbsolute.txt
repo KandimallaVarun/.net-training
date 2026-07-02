@@ -1,0 +1,7 @@
+D:\.NET_FULL_STACK\.net-training\Day-4\DelegateEx1\bin\Debug\DelegateEx1.exe.config
+D:\.NET_FULL_STACK\.net-training\Day-4\DelegateEx1\bin\Debug\DelegateEx1.exe
+D:\.NET_FULL_STACK\.net-training\Day-4\DelegateEx1\bin\Debug\DelegateEx1.pdb
+D:\.NET_FULL_STACK\.net-training\Day-4\DelegateEx1\obj\Debug\DelegateEx1.csproj.AssemblyReference.cache
+D:\.NET_FULL_STACK\.net-training\Day-4\DelegateEx1\obj\Debug\DelegateEx1.csproj.CoreCompileInputs.cache
+D:\.NET_FULL_STACK\.net-training\Day-4\DelegateEx1\obj\Debug\DelegateEx1.exe
+D:\.NET_FULL_STACK\.net-training\Day-4\DelegateEx1\obj\Debug\DelegateEx1.pdb

@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{DE4B4361-A127-461F-A750-E4472627C0C8}|EnumEx\\EnumEx.csproj|solutionrelative:enumex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9458C8E-8F19-4FBE-B03D-667E9CF46709}|StructEx\\StructEx.csproj|d:\\.net_full_stack\\.net-training\\day-2\\day2\\structex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9458C8E-8F19-4FBE-B03D-667E9CF46709}|StructEx\\StructEx.csproj|D:\\.NET_FULL_STACK\\.net-training\\Day-2\\Day2\\structex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9458C8E-8F19-4FBE-B03D-667E9CF46709}|StructEx\\StructEx.csproj|solutionrelative:structex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -41,7 +41,7 @@
               "RelativeDocumentMoniker": "StructEx\\Program.cs",
               "ToolTip": "D:\\.NET_FULL_STACK\\.net-training\\Day-2\\Day2\\StructEx\\Program.cs",
               "RelativeToolTip": "StructEx\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-30T18:19:57.331Z",
               "EditorCaption": ""

@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="NamedParameterEx/NamedParameterEx.csproj" Id="b5894652-b848-41a3-b194-8daf145299c9" />
+  <Project Path="OOPsEx1/OOPsEx1.csproj" Id="94a3eabc-366e-4cd5-8787-617a2fe31796" />
+  <Project Path="OperatorOverloadingEx/OperatorOverloadingEx.csproj" Id="c2ecc238-5118-4e2c-afab-f810b903a3b1" />
+</Solution>

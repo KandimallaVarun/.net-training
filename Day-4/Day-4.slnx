@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AbstractCRUDEx/AbstractCRUDEx.csproj" Id="f72e683e-3718-4e0a-9ede-33895e67716e" />
+  <Project Path="CustomDefinedException/CustomDefinedException.csproj" Id="0ca1ad54-d579-47af-b3e5-8d7366b0a7a1" />
+  <Project Path="CustomException2/CustomException2.csproj" Id="32194b1a-7c2b-46d1-a5f0-69607322670e" />
+  <Project Path="DelegateEx1/DelegateEx1.csproj" Id="b1f83921-f04b-4542-879f-9996ad3aaba5" />
+</Solution>
