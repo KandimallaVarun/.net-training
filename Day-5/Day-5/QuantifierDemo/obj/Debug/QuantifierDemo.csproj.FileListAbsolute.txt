@@ -1,0 +1,7 @@
+D:\.NET_FULL_STACK\.net-training\Day-5\Day-5\QuantifierDemo\bin\Debug\QuantifierDemo.exe.config
+D:\.NET_FULL_STACK\.net-training\Day-5\Day-5\QuantifierDemo\bin\Debug\QuantifierDemo.exe
+D:\.NET_FULL_STACK\.net-training\Day-5\Day-5\QuantifierDemo\bin\Debug\QuantifierDemo.pdb
+D:\.NET_FULL_STACK\.net-training\Day-5\Day-5\QuantifierDemo\obj\Debug\QuantifierDemo.csproj.AssemblyReference.cache
+D:\.NET_FULL_STACK\.net-training\Day-5\Day-5\QuantifierDemo\obj\Debug\QuantifierDemo.csproj.CoreCompileInputs.cache
+D:\.NET_FULL_STACK\.net-training\Day-5\Day-5\QuantifierDemo\obj\Debug\QuantifierDemo.exe
+D:\.NET_FULL_STACK\.net-training\Day-5\Day-5\QuantifierDemo\obj\Debug\QuantifierDemo.pdb

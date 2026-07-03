@@ -3,4 +3,6 @@
   <Project Path="CustomDefinedException/CustomDefinedException.csproj" Id="0ca1ad54-d579-47af-b3e5-8d7366b0a7a1" />
   <Project Path="CustomException2/CustomException2.csproj" Id="32194b1a-7c2b-46d1-a5f0-69607322670e" />
   <Project Path="DelegateEx1/DelegateEx1.csproj" Id="b1f83921-f04b-4542-879f-9996ad3aaba5" />
+  <Project Path="GenericCollectionsEx/GenericCollectionsEx.csproj" Id="2c9f44a1-ce92-4506-a41f-b5ae85536f63" />
+  <Project Path="NonGenericCollectionsEx/NonGenericCollectionsEx.csproj" Id="1bc58c6d-acef-4c09-b649-a36c684a78b5" />
 </Solution>

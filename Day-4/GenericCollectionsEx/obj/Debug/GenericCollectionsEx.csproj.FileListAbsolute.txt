@@ -1,0 +1,7 @@
+D:\.NET_FULL_STACK\.net-training\Day-4\GenericCollectionsEx\bin\Debug\GenericCollectionsEx.exe.config
+D:\.NET_FULL_STACK\.net-training\Day-4\GenericCollectionsEx\bin\Debug\GenericCollectionsEx.exe
+D:\.NET_FULL_STACK\.net-training\Day-4\GenericCollectionsEx\bin\Debug\GenericCollectionsEx.pdb
+D:\.NET_FULL_STACK\.net-training\Day-4\GenericCollectionsEx\obj\Debug\GenericCollectionsEx.csproj.AssemblyReference.cache
+D:\.NET_FULL_STACK\.net-training\Day-4\GenericCollectionsEx\obj\Debug\GenericCollectionsEx.csproj.CoreCompileInputs.cache
+D:\.NET_FULL_STACK\.net-training\Day-4\GenericCollectionsEx\obj\Debug\GenericCollectionsEx.exe
+D:\.NET_FULL_STACK\.net-training\Day-4\GenericCollectionsEx\obj\Debug\GenericCollectionsEx.pdb

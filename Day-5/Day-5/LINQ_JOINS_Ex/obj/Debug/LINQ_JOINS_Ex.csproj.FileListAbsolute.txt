@@ -1,0 +1,7 @@
+D:\.NET_FULL_STACK\.net-training\Day-5\Day-5\LINQ_JOINS_Ex\bin\Debug\LINQ_JOINS_Ex.exe.config
+D:\.NET_FULL_STACK\.net-training\Day-5\Day-5\LINQ_JOINS_Ex\bin\Debug\LINQ_JOINS_Ex.exe
+D:\.NET_FULL_STACK\.net-training\Day-5\Day-5\LINQ_JOINS_Ex\bin\Debug\LINQ_JOINS_Ex.pdb
+D:\.NET_FULL_STACK\.net-training\Day-5\Day-5\LINQ_JOINS_Ex\obj\Debug\LINQ_JOINS_Ex.csproj.AssemblyReference.cache
+D:\.NET_FULL_STACK\.net-training\Day-5\Day-5\LINQ_JOINS_Ex\obj\Debug\LINQ_JOINS_Ex.csproj.CoreCompileInputs.cache
+D:\.NET_FULL_STACK\.net-training\Day-5\Day-5\LINQ_JOINS_Ex\obj\Debug\LINQ_JOINS_Ex.exe
+D:\.NET_FULL_STACK\.net-training\Day-5\Day-5\LINQ_JOINS_Ex\obj\Debug\LINQ_JOINS_Ex.pdb

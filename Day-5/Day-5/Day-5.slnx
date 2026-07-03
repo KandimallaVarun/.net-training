@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ConsoleApp1/LINQEx2.csproj" />
+  <Project Path="LINQEx1/LINQEx1.csproj" />
+  <Project Path="LINQ_JOINS_Ex/LINQ_JOINS_Ex.csproj" />
+  <Project Path="QuantifierDemo/QuantifierDemo.csproj" />
+</Solution>
