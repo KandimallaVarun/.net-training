@@ -1,0 +1,7 @@
+D:\.NET_FULL_STACK\.net-training\Day-5\Day-5\LINQEx1\bin\Debug\LINQEx1.exe.config
+D:\.NET_FULL_STACK\.net-training\Day-5\Day-5\LINQEx1\bin\Debug\LINQEx1.exe
+D:\.NET_FULL_STACK\.net-training\Day-5\Day-5\LINQEx1\bin\Debug\LINQEx1.pdb
+D:\.NET_FULL_STACK\.net-training\Day-5\Day-5\LINQEx1\obj\Debug\LINQEx1.csproj.AssemblyReference.cache
+D:\.NET_FULL_STACK\.net-training\Day-5\Day-5\LINQEx1\obj\Debug\LINQEx1.csproj.CoreCompileInputs.cache
+D:\.NET_FULL_STACK\.net-training\Day-5\Day-5\LINQEx1\obj\Debug\LINQEx1.exe
+D:\.NET_FULL_STACK\.net-training\Day-5\Day-5\LINQEx1\obj\Debug\LINQEx1.pdb

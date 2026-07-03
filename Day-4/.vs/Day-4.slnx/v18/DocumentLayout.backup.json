@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "D:\\.NET_FULL_STACK\\.net-training\\Day-4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2C9F44A1-CE92-4506-A41F-B5AE85536F63}|GenericCollectionsEx\\GenericCollectionsEx.csproj|d:\\.net_full_stack\\.net-training\\day-4\\genericcollectionsex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C9F44A1-CE92-4506-A41F-B5AE85536F63}|GenericCollectionsEx\\GenericCollectionsEx.csproj|solutionrelative:genericcollectionsex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC58C6D-ACEF-4C09-B649-A36C684A78B5}|NonGenericCollectionsEx\\NonGenericCollectionsEx.csproj|d:\\.net_full_stack\\.net-training\\day-4\\nongenericcollectionsex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC58C6D-ACEF-4C09-B649-A36C684A78B5}|NonGenericCollectionsEx\\NonGenericCollectionsEx.csproj|solutionrelative:nongenericcollectionsex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72E683E-3718-4E0A-9EDE-33895E67716E}|AbstractCRUDEx\\AbstractCRUDEx.csproj|D:\\.NET_FULL_STACK\\.net-training\\Day-4\\abstractcrudex\\employeerepoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72E683E-3718-4E0A-9EDE-33895E67716E}|AbstractCRUDEx\\AbstractCRUDEx.csproj|solutionrelative:abstractcrudex\\employeerepoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B1F83921-F04B-4542-879F-9996AD3AABA5}|DelegateEx1\\DelegateEx1.csproj|d:\\.net_full_stack\\.net-training\\day-4\\delegateex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1F83921-F04B-4542-879F-9996AD3AABA5}|DelegateEx1\\DelegateEx1.csproj|solutionrelative:delegateex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32194B1A-7C2B-46D1-A5F0-69607322670E}|CustomException2\\CustomException2.csproj|d:\\.net_full_stack\\.net-training\\day-4\\customexception2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32194B1A-7C2B-46D1-A5F0-69607322670E}|CustomException2\\CustomException2.csproj|D:\\.NET_FULL_STACK\\.net-training\\Day-4\\customexception2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32194B1A-7C2B-46D1-A5F0-69607322670E}|CustomException2\\CustomException2.csproj|solutionrelative:customexception2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0CA1AD54-D579-47AF-B3E5-8D7366B0A7A1}|CustomDefinedException\\CustomDefinedException.csproj|D:\\.NET_FULL_STACK\\.net-training\\Day-4\\customdefinedexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CA1AD54-D579-47AF-B3E5-8D7366B0A7A1}|CustomDefinedException\\CustomDefinedException.csproj|solutionrelative:customdefinedexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F72E683E-3718-4E0A-9EDE-33895E67716E}|AbstractCRUDEx\\AbstractCRUDEx.csproj|D:\\.NET_FULL_STACK\\.net-training\\Day-4\\abstractcrudex\\employeerepoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F72E683E-3718-4E0A-9EDE-33895E67716E}|AbstractCRUDEx\\AbstractCRUDEx.csproj|solutionrelative:abstractcrudex\\employeerepoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F72E683E-3718-4E0A-9EDE-33895E67716E}|AbstractCRUDEx\\AbstractCRUDEx.csproj|D:\\.NET_FULL_STACK\\.net-training\\Day-4\\abstractcrudex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -44,18 +52,44 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET_FULL_STACK\\.net-training\\Day-4\\GenericCollectionsEx\\Program.cs",
+              "RelativeDocumentMoniker": "GenericCollectionsEx\\Program.cs",
+              "ToolTip": "D:\\.NET_FULL_STACK\\.net-training\\Day-4\\GenericCollectionsEx\\Program.cs",
+              "RelativeToolTip": "GenericCollectionsEx\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwDUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T14:47:56.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET_FULL_STACK\\.net-training\\Day-4\\NonGenericCollectionsEx\\Program.cs",
+              "RelativeDocumentMoniker": "NonGenericCollectionsEx\\Program.cs",
+              "ToolTip": "D:\\.NET_FULL_STACK\\.net-training\\Day-4\\NonGenericCollectionsEx\\Program.cs",
+              "RelativeToolTip": "NonGenericCollectionsEx\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T14:21:32.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\.NET_FULL_STACK\\.net-training\\Day-4\\DelegateEx1\\Program.cs",
               "RelativeDocumentMoniker": "DelegateEx1\\Program.cs",
               "ToolTip": "D:\\.NET_FULL_STACK\\.net-training\\Day-4\\DelegateEx1\\Program.cs",
               "RelativeToolTip": "DelegateEx1\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBgAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-02T17:22:30.966Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\.NET_FULL_STACK\\.net-training\\Day-4\\CustomException2\\Program.cs",
               "RelativeDocumentMoniker": "CustomException2\\Program.cs",
@@ -63,12 +97,11 @@
               "RelativeToolTip": "CustomException2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T15:33:13.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-02T15:33:13.667Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\.NET_FULL_STACK\\.net-training\\Day-4\\CustomDefinedException\\Program.cs",
               "RelativeDocumentMoniker": "CustomDefinedException\\Program.cs",
@@ -80,19 +113,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "EmployeeRepoImpl.cs",
               "DocumentMoniker": "D:\\.NET_FULL_STACK\\.net-training\\Day-4\\AbstractCRUDEx\\EmployeeRepoImpl.cs",
               "RelativeDocumentMoniker": "AbstractCRUDEx\\EmployeeRepoImpl.cs",
               "ToolTip": "D:\\.NET_FULL_STACK\\.net-training\\Day-4\\AbstractCRUDEx\\EmployeeRepoImpl.cs",
               "RelativeToolTip": "AbstractCRUDEx\\EmployeeRepoImpl.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAkwBsAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwBsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T14:17:14.166Z"
+              "WhenOpened": "2026-07-02T14:17:14.166Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "EmployeeRepo.cs",
               "DocumentMoniker": "D:\\.NET_FULL_STACK\\.net-training\\Day-4\\AbstractCRUDEx\\EmployeeRepo.cs",
               "RelativeDocumentMoniker": "AbstractCRUDEx\\EmployeeRepo.cs",
@@ -104,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\.NET_FULL_STACK\\.net-training\\Day-4\\AbstractCRUDEx\\Employee.cs",
               "RelativeDocumentMoniker": "AbstractCRUDEx\\Employee.cs",
@@ -116,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\.NET_FULL_STACK\\.net-training\\Day-4\\AbstractCRUDEx\\Program.cs",
               "RelativeDocumentMoniker": "AbstractCRUDEx\\Program.cs",
