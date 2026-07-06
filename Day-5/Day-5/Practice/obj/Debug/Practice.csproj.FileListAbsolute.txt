@@ -1,0 +1,7 @@
+D:\.NET_FULL_STACK\.net-training\Day-5\Day-5\Practice\bin\Debug\Practice.exe.config
+D:\.NET_FULL_STACK\.net-training\Day-5\Day-5\Practice\bin\Debug\Practice.exe
+D:\.NET_FULL_STACK\.net-training\Day-5\Day-5\Practice\bin\Debug\Practice.pdb
+D:\.NET_FULL_STACK\.net-training\Day-5\Day-5\Practice\obj\Debug\Practice.csproj.AssemblyReference.cache
+D:\.NET_FULL_STACK\.net-training\Day-5\Day-5\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+D:\.NET_FULL_STACK\.net-training\Day-5\Day-5\Practice\obj\Debug\Practice.exe
+D:\.NET_FULL_STACK\.net-training\Day-5\Day-5\Practice\obj\Debug\Practice.pdb

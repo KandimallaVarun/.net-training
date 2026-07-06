@@ -6,7 +6,7 @@ namespace QuantifierDemo
     internal class Program
     {
         static void Main(string[] args)
-        {
+        {   
             int[] score = { 11, 44, 55, 66, 77 };
 
             Console.WriteLine("===== ELEMENT OPERATORS =====");
