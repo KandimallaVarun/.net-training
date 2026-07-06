@@ -1,0 +1,7 @@
+D:\.NET_FULL_STACK\.net-training\Day-5\Day-5\AsyncEx1\bin\Debug\AsyncEx1.exe.config
+D:\.NET_FULL_STACK\.net-training\Day-5\Day-5\AsyncEx1\bin\Debug\AsyncEx1.exe
+D:\.NET_FULL_STACK\.net-training\Day-5\Day-5\AsyncEx1\bin\Debug\AsyncEx1.pdb
+D:\.NET_FULL_STACK\.net-training\Day-5\Day-5\AsyncEx1\obj\Debug\AsyncEx1.csproj.AssemblyReference.cache
+D:\.NET_FULL_STACK\.net-training\Day-5\Day-5\AsyncEx1\obj\Debug\AsyncEx1.csproj.CoreCompileInputs.cache
+D:\.NET_FULL_STACK\.net-training\Day-5\Day-5\AsyncEx1\obj\Debug\AsyncEx1.exe
+D:\.NET_FULL_STACK\.net-training\Day-5\Day-5\AsyncEx1\obj\Debug\AsyncEx1.pdb

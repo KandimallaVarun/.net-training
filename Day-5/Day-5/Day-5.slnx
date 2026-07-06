@@ -1,6 +1,8 @@
 <Solution>
-  <Project Path="ConsoleApp1/LINQEx2.csproj" />
-  <Project Path="LINQEx1/LINQEx1.csproj" />
-  <Project Path="LINQ_JOINS_Ex/LINQ_JOINS_Ex.csproj" />
-  <Project Path="QuantifierDemo/QuantifierDemo.csproj" />
+  <Project Path="AsyncEx1/AsyncEx1.csproj" Id="dc8d36e9-9647-48ed-9ce5-a1a748794c1c" />
+  <Project Path="ConsoleApp1/LINQEx2.csproj" Id="a633cd7e-412d-44a2-b8b9-875136e245cd" />
+  <Project Path="LINQEx1/LINQEx1.csproj" Id="0369027c-01c0-4aac-81e7-20068244c8fd" />
+  <Project Path="LINQ_JOINS_Ex/LINQ_JOINS_Ex.csproj" Id="83e30452-6953-4cf3-9f82-9afd9f8d13a1" />
+  <Project Path="Practice/Practice.csproj" Id="74a3fda4-9672-4581-b32a-fcef977a7fe1" />
+  <Project Path="QuantifierDemo/QuantifierDemo.csproj" Id="dc850cb6-271a-4539-90d3-19d1edf9ae9c" />
 </Solution>
