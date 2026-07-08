@@ -1,0 +1,24 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace OnlineBookLibrary
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            BookRepoImpl bookRepo = new BookRepoImpl();
+
+            bookRepo.addBook(new Book { Id = 4, Name = "Book 4", Author = "Author 4", Price = 25.99 });
+            Console.WriteLine(bookRepo.removeBook(new Book { Id = 2, Name = "Book 2", Author = "Author 2", Price = 15.99 }));
+            bookRepo.update(new Book { Id = 3, Name = "Book 3", Author = "Author 3", Price = 20.99 });
+            bookRepo.getBookById(1);
+
+            List<Book> allBooks = bookRepo.getAllBooks();
+            allBooks.ForEach(book => Console.WriteLine($"Id: {book.Id}, Name: {book.Name}, Author: {book.Author}, Price: {book.Price}"));
+        }
+    }
+}

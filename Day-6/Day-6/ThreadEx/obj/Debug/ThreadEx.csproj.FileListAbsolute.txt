@@ -1,0 +1,7 @@
+D:\.NET_FULL_STACK\.net-training\Day-6\Day-6\ThreadEx\bin\Debug\ThreadEx.exe.config
+D:\.NET_FULL_STACK\.net-training\Day-6\Day-6\ThreadEx\bin\Debug\ThreadEx.exe
+D:\.NET_FULL_STACK\.net-training\Day-6\Day-6\ThreadEx\bin\Debug\ThreadEx.pdb
+D:\.NET_FULL_STACK\.net-training\Day-6\Day-6\ThreadEx\obj\Debug\ThreadEx.csproj.AssemblyReference.cache
+D:\.NET_FULL_STACK\.net-training\Day-6\Day-6\ThreadEx\obj\Debug\ThreadEx.csproj.CoreCompileInputs.cache
+D:\.NET_FULL_STACK\.net-training\Day-6\Day-6\ThreadEx\obj\Debug\ThreadEx.exe
+D:\.NET_FULL_STACK\.net-training\Day-6\Day-6\ThreadEx\obj\Debug\ThreadEx.pdb
