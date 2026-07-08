@@ -1,0 +1,11 @@
+D:\.NET_FULL_STACK\.net-training\Day-6\Day-6\PackageEx\bin\Debug\PackageEx.exe.config
+D:\.NET_FULL_STACK\.net-training\Day-6\Day-6\PackageEx\bin\Debug\PackageEx.exe
+D:\.NET_FULL_STACK\.net-training\Day-6\Day-6\PackageEx\bin\Debug\PackageEx.pdb
+D:\.NET_FULL_STACK\.net-training\Day-6\Day-6\PackageEx\bin\Debug\PackageEx2.exe
+D:\.NET_FULL_STACK\.net-training\Day-6\Day-6\PackageEx\bin\Debug\PackageEx2.pdb
+D:\.NET_FULL_STACK\.net-training\Day-6\Day-6\PackageEx\bin\Debug\PackageEx2.exe.config
+D:\.NET_FULL_STACK\.net-training\Day-6\Day-6\PackageEx\obj\Debug\PackageEx.csproj.AssemblyReference.cache
+D:\.NET_FULL_STACK\.net-training\Day-6\Day-6\PackageEx\obj\Debug\PackageEx.csproj.CoreCompileInputs.cache
+D:\.NET_FULL_STACK\.net-training\Day-6\Day-6\PackageEx\obj\Debug\PackageEx.csproj.Up2Date
+D:\.NET_FULL_STACK\.net-training\Day-6\Day-6\PackageEx\obj\Debug\PackageEx.exe
+D:\.NET_FULL_STACK\.net-training\Day-6\Day-6\PackageEx\obj\Debug\PackageEx.pdb

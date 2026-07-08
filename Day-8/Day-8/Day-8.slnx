@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="EFCoreCodeFirstApproach/EFCoreCodeFirstApproach.csproj" />
+  <Project Path="EFCoreCRUD_Repository/EFCoreCRUD_Repository.csproj" Id="38736891-2fd3-49e3-baf7-f27a0ca56bff" />
+  <Project Path="EFCore_Relationship/EFCore_Relationship.csproj" Id="735d85e5-b00e-4bc2-84cf-48821f33e69f" />
+</Solution>

@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{74A3FDA4-9672-4581-B32A-FCEF977A7FE1}|Practice\\Practice.csproj|solutionrelative:practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC8D36E9-9647-48ED-9CE5-A1A748794C1C}|AsyncEx1\\AsyncEx1.csproj|d:\\.net_full_stack\\.net-training\\day-5\\day-5\\asyncex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DC8D36E9-9647-48ED-9CE5-A1A748794C1C}|AsyncEx1\\AsyncEx1.csproj|D:\\.NET_FULL_STACK\\.net-training\\Day-5\\Day-5\\asyncex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC8D36E9-9647-48ED-9CE5-A1A748794C1C}|AsyncEx1\\AsyncEx1.csproj|solutionrelative:asyncex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,9 +26,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\.NET_FULL_STACK\\.net-training\\Day-5\\Day-5\\Practice\\Program.cs",
               "RelativeDocumentMoniker": "Practice\\Program.cs",
-              "ToolTip": "D:\\.NET_FULL_STACK\\.net-training\\Day-5\\Day-5\\Practice\\Program.cs*",
-              "RelativeToolTip": "Practice\\Program.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA1wB4AAAA3AAAAAAAAAA==",
+              "ToolTip": "D:\\.NET_FULL_STACK\\.net-training\\Day-5\\Day-5\\Practice\\Program.cs",
+              "RelativeToolTip": "Practice\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBIAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-06T15:57:46.1Z",
               "EditorCaption": ""
@@ -43,8 +43,7 @@
               "RelativeToolTip": "AsyncEx1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-05T16:35:43.045Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-05T16:35:43.045Z"
             }
           ]
         }

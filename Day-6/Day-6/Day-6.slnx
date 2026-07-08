@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="PackageEx/PackageEx.csproj" />
+  <Project Path="PackageEx2/PackageEx2.csproj" />
+  <Project Path="ThreadEx/ThreadEx.csproj" />
+</Solution>

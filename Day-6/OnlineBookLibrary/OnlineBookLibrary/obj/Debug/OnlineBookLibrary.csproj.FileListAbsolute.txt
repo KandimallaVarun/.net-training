@@ -1,0 +1,7 @@
+D:\.NET_FULL_STACK\.net-training\Day-6\OnlineBookLibrary\OnlineBookLibrary\obj\Debug\OnlineBookLibrary.csproj.AssemblyReference.cache
+D:\.NET_FULL_STACK\.net-training\Day-6\OnlineBookLibrary\OnlineBookLibrary\obj\Debug\OnlineBookLibrary.csproj.CoreCompileInputs.cache
+D:\.NET_FULL_STACK\.net-training\Day-6\OnlineBookLibrary\OnlineBookLibrary\bin\Debug\OnlineBookLibrary.exe.config
+D:\.NET_FULL_STACK\.net-training\Day-6\OnlineBookLibrary\OnlineBookLibrary\bin\Debug\OnlineBookLibrary.exe
+D:\.NET_FULL_STACK\.net-training\Day-6\OnlineBookLibrary\OnlineBookLibrary\bin\Debug\OnlineBookLibrary.pdb
+D:\.NET_FULL_STACK\.net-training\Day-6\OnlineBookLibrary\OnlineBookLibrary\obj\Debug\OnlineBookLibrary.exe
+D:\.NET_FULL_STACK\.net-training\Day-6\OnlineBookLibrary\OnlineBookLibrary\obj\Debug\OnlineBookLibrary.pdb
