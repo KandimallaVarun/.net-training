@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET_FULL_STACK\\.net-training\\Day-9\\Accenture_HRMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31E2CD64-0BEA-441A-9996-5CEE88DBF715}|DataAccess\\DataAccess.csproj|d:\\.net_full_stack\\.net-training\\day-9\\accenture_hrms\\dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E2CD64-0BEA-441A-9996-5CEE88DBF715}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E2CD64-0BEA-441A-9996-5CEE88DBF715}|DataAccess\\DataAccess.csproj|d:\\.net_full_stack\\.net-training\\day-9\\accenture_hrms\\dataaccess\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E2CD64-0BEA-441A-9996-5CEE88DBF715}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E2CD64-0BEA-441A-9996-5CEE88DBF715}|DataAccess\\DataAccess.csproj|d:\\.net_full_stack\\.net-training\\day-9\\accenture_hrms\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{31E2CD64-0BEA-441A-9996-5CEE88DBF715}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E2CD64-0BEA-441A-9996-5CEE88DBF715}|DataAccess\\DataAccess.csproj|d:\\.net_full_stack\\.net-training\\day-9\\accenture_hrms\\dataaccess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E2CD64-0BEA-441A-9996-5CEE88DBF715}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "D:\\.NET_FULL_STACK\\.net-training\\Day-9\\Accenture_HRMS\\DataAccess\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "D:\\.NET_FULL_STACK\\.net-training\\Day-9\\Accenture_HRMS\\DataAccess\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "DataAccess\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T04:43:28.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\.NET_FULL_STACK\\.net-training\\Day-9\\Accenture_HRMS\\DataAccess\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Models\\Employee.cs",
+              "ToolTip": "D:\\.NET_FULL_STACK\\.net-training\\Day-9\\Accenture_HRMS\\DataAccess\\Models\\Employee.cs",
+              "RelativeToolTip": "DataAccess\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T04:43:09.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataAccess",
+              "DocumentMoniker": "D:\\.NET_FULL_STACK\\.net-training\\Day-9\\Accenture_HRMS\\DataAccess\\DataAccess.csproj",
+              "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
+              "ToolTip": "D:\\.NET_FULL_STACK\\.net-training\\Day-9\\Accenture_HRMS\\DataAccess\\DataAccess.csproj",
+              "RelativeToolTip": "DataAccess\\DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-09T04:42:20.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET_FULL_STACK\\.net-training\\Day-9\\Accenture_HRMS\\DataAccess\\Program.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Program.cs",
+              "ToolTip": "D:\\.NET_FULL_STACK\\.net-training\\Day-9\\Accenture_HRMS\\DataAccess\\Program.cs",
+              "RelativeToolTip": "DataAccess\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T04:33:59.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

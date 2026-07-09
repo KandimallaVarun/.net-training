@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET_FULL_STACK\\.net-training\\Day-9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DA5638-F7F0-4B26-8221-4DF8C4F165E4}|MVC_Architecture\\MVC_Architecture.csproj|d:\\.net_full_stack\\.net-training\\day-9\\mvc_architecture\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6DA5638-F7F0-4B26-8221-4DF8C4F165E4}|MVC_Architecture\\MVC_Architecture.csproj|solutionrelative:mvc_architecture\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DA5638-F7F0-4B26-8221-4DF8C4F165E4}|MVC_Architecture\\MVC_Architecture.csproj|d:\\.net_full_stack\\.net-training\\day-9\\mvc_architecture\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6DA5638-F7F0-4B26-8221-4DF8C4F165E4}|MVC_Architecture\\MVC_Architecture.csproj|solutionrelative:mvc_architecture\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DA5638-F7F0-4B26-8221-4DF8C4F165E4}|MVC_Architecture\\MVC_Architecture.csproj|d:\\.net_full_stack\\.net-training\\day-9\\mvc_architecture\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DA5638-F7F0-4B26-8221-4DF8C4F165E4}|MVC_Architecture\\MVC_Architecture.csproj|solutionrelative:mvc_architecture\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DA5638-F7F0-4B26-8221-4DF8C4F165E4}|MVC_Architecture\\MVC_Architecture.csproj|d:\\.net_full_stack\\.net-training\\day-9\\mvc_architecture\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6DA5638-F7F0-4B26-8221-4DF8C4F165E4}|MVC_Architecture\\MVC_Architecture.csproj|solutionrelative:mvc_architecture\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DA5638-F7F0-4B26-8221-4DF8C4F165E4}|MVC_Architecture\\MVC_Architecture.csproj|d:\\.net_full_stack\\.net-training\\day-9\\mvc_architecture\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6DA5638-F7F0-4B26-8221-4DF8C4F165E4}|MVC_Architecture\\MVC_Architecture.csproj|solutionrelative:mvc_architecture\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DA5638-F7F0-4B26-8221-4DF8C4F165E4}|MVC_Architecture\\MVC_Architecture.csproj|d:\\.net_full_stack\\.net-training\\day-9\\mvc_architecture\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6DA5638-F7F0-4B26-8221-4DF8C4F165E4}|MVC_Architecture\\MVC_Architecture.csproj|solutionrelative:mvc_architecture\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DA5638-F7F0-4B26-8221-4DF8C4F165E4}|MVC_Architecture\\MVC_Architecture.csproj|d:\\.net_full_stack\\.net-training\\day-9\\mvc_architecture\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6DA5638-F7F0-4B26-8221-4DF8C4F165E4}|MVC_Architecture\\MVC_Architecture.csproj|solutionrelative:mvc_architecture\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DA5638-F7F0-4B26-8221-4DF8C4F165E4}|MVC_Architecture\\MVC_Architecture.csproj|d:\\.net_full_stack\\.net-training\\day-9\\mvc_architecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DA5638-F7F0-4B26-8221-4DF8C4F165E4}|MVC_Architecture\\MVC_Architecture.csproj|solutionrelative:mvc_architecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DA5638-F7F0-4B26-8221-4DF8C4F165E4}|MVC_Architecture\\MVC_Architecture.csproj|d:\\.net_full_stack\\.net-training\\day-9\\mvc_architecture\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6DA5638-F7F0-4B26-8221-4DF8C4F165E4}|MVC_Architecture\\MVC_Architecture.csproj|solutionrelative:mvc_architecture\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DA5638-F7F0-4B26-8221-4DF8C4F165E4}|MVC_Architecture\\MVC_Architecture.csproj|d:\\.net_full_stack\\.net-training\\day-9\\mvc_architecture\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6DA5638-F7F0-4B26-8221-4DF8C4F165E4}|MVC_Architecture\\MVC_Architecture.csproj|solutionrelative:mvc_architecture\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DA5638-F7F0-4B26-8221-4DF8C4F165E4}|MVC_Architecture\\MVC_Architecture.csproj|d:\\.net_full_stack\\.net-training\\day-9\\mvc_architecture\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6DA5638-F7F0-4B26-8221-4DF8C4F165E4}|MVC_Architecture\\MVC_Architecture.csproj|solutionrelative:mvc_architecture\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DA5638-F7F0-4B26-8221-4DF8C4F165E4}|MVC_Architecture\\MVC_Architecture.csproj|d:\\.net_full_stack\\.net-training\\day-9\\mvc_architecture\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6DA5638-F7F0-4B26-8221-4DF8C4F165E4}|MVC_Architecture\\MVC_Architecture.csproj|solutionrelative:mvc_architecture\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\.NET_FULL_STACK\\.net-training\\Day-9\\MVC_Architecture\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "MVC_Architecture\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\.NET_FULL_STACK\\.net-training\\Day-9\\MVC_Architecture\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "MVC_Architecture\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-09T18:06:23.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET_FULL_STACK\\.net-training\\Day-9\\MVC_Architecture\\Program.cs",
+              "RelativeDocumentMoniker": "MVC_Architecture\\Program.cs",
+              "ToolTip": "D:\\.NET_FULL_STACK\\.net-training\\Day-9\\MVC_Architecture\\Program.cs",
+              "RelativeToolTip": "MVC_Architecture\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T18:02:13.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.NET_FULL_STACK\\.net-training\\Day-9\\MVC_Architecture\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_Architecture\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\.NET_FULL_STACK\\.net-training\\Day-9\\MVC_Architecture\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVC_Architecture\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-09T18:05:05.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\.NET_FULL_STACK\\.net-training\\Day-9\\MVC_Architecture\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MVC_Architecture\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\.NET_FULL_STACK\\.net-training\\Day-9\\MVC_Architecture\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MVC_Architecture\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-09T18:01:52.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\.NET_FULL_STACK\\.net-training\\Day-9\\MVC_Architecture\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MVC_Architecture\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\.NET_FULL_STACK\\.net-training\\Day-9\\MVC_Architecture\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MVC_Architecture\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-09T18:01:48.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\.NET_FULL_STACK\\.net-training\\Day-9\\MVC_Architecture\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC_Architecture\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\.NET_FULL_STACK\\.net-training\\Day-9\\MVC_Architecture\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC_Architecture\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T18:04:39.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\.NET_FULL_STACK\\.net-training\\Day-9\\MVC_Architecture\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC_Architecture\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\.NET_FULL_STACK\\.net-training\\Day-9\\MVC_Architecture\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC_Architecture\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-09T18:00:59.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.NET_FULL_STACK\\.net-training\\Day-9\\MVC_Architecture\\appsettings.json",
+              "RelativeDocumentMoniker": "MVC_Architecture\\appsettings.json",
+              "ToolTip": "D:\\.NET_FULL_STACK\\.net-training\\Day-9\\MVC_Architecture\\appsettings.json",
+              "RelativeToolTip": "MVC_Architecture\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-09T18:12:56.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\.NET_FULL_STACK\\.net-training\\Day-9\\MVC_Architecture\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "MVC_Architecture\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\.NET_FULL_STACK\\.net-training\\Day-9\\MVC_Architecture\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "MVC_Architecture\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-09T18:05:12.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\.NET_FULL_STACK\\.net-training\\Day-9\\MVC_Architecture\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "MVC_Architecture\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\.NET_FULL_STACK\\.net-training\\Day-9\\MVC_Architecture\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "MVC_Architecture\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-09T18:01:44.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\.NET_FULL_STACK\\.net-training\\Day-9\\MVC_Architecture\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "MVC_Architecture\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\.NET_FULL_STACK\\.net-training\\Day-9\\MVC_Architecture\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "MVC_Architecture\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-09T18:01:37.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\.NET_FULL_STACK\\.net-training\\Day-9\\MVC_Architecture\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MVC_Architecture\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\.NET_FULL_STACK\\.net-training\\Day-9\\MVC_Architecture\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MVC_Architecture\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-09T18:00:18.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\.NET_FULL_STACK\.net-training\CaseStudy1\CafeteriaApp\bin\Debug\net10.0\CafeteriaApp.exe
+D:\.NET_FULL_STACK\.net-training\CaseStudy1\CafeteriaApp\bin\Debug\net10.0\CafeteriaApp.deps.json
+D:\.NET_FULL_STACK\.net-training\CaseStudy1\CafeteriaApp\bin\Debug\net10.0\CafeteriaApp.runtimeconfig.json
+D:\.NET_FULL_STACK\.net-training\CaseStudy1\CafeteriaApp\bin\Debug\net10.0\CafeteriaApp.dll
+D:\.NET_FULL_STACK\.net-training\CaseStudy1\CafeteriaApp\bin\Debug\net10.0\CafeteriaApp.pdb
+D:\.NET_FULL_STACK\.net-training\CaseStudy1\CafeteriaApp\obj\Debug\net10.0\CafeteriaApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET_FULL_STACK\.net-training\CaseStudy1\CafeteriaApp\obj\Debug\net10.0\CafeteriaApp.AssemblyInfoInputs.cache
+D:\.NET_FULL_STACK\.net-training\CaseStudy1\CafeteriaApp\obj\Debug\net10.0\CafeteriaApp.AssemblyInfo.cs
+D:\.NET_FULL_STACK\.net-training\CaseStudy1\CafeteriaApp\obj\Debug\net10.0\CafeteriaApp.csproj.CoreCompileInputs.cache
+D:\.NET_FULL_STACK\.net-training\CaseStudy1\CafeteriaApp\obj\Debug\net10.0\CafeteriaApp.sourcelink.json
+D:\.NET_FULL_STACK\.net-training\CaseStudy1\CafeteriaApp\obj\Debug\net10.0\CafeteriaApp.dll
+D:\.NET_FULL_STACK\.net-training\CaseStudy1\CafeteriaApp\obj\Debug\net10.0\refint\CafeteriaApp.dll
+D:\.NET_FULL_STACK\.net-training\CaseStudy1\CafeteriaApp\obj\Debug\net10.0\CafeteriaApp.pdb
+D:\.NET_FULL_STACK\.net-training\CaseStudy1\CafeteriaApp\obj\Debug\net10.0\CafeteriaApp.genruntimeconfig.cache
+D:\.NET_FULL_STACK\.net-training\CaseStudy1\CafeteriaApp\obj\Debug\net10.0\ref\CafeteriaApp.dll
