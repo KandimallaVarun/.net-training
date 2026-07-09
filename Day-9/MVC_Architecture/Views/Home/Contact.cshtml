@@ -1,0 +1,15 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Contact";
+}
+
+<h1>Any Queries contact to these numbers</h1>
+
+@{
+    for (int i = 0; i < 10; i++)
+    {
+        <p>+91 123456789 @{@i}</p>
+    }
+}
